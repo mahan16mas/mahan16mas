@@ -19,4 +19,4 @@ CE student in Sharif University of Technology.
 ![Mahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahan16mas&show_icons=true&theme=radical)
 
 ## 📝 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahan16mas&theme=radical&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahan16mas&theme=radical&langs_count=10&layout=donut)
