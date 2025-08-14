@@ -1,6 +1,6 @@
 # Hi there, I'm Mahan 👋
 
-CE student at SUT. Interested in ML.
+CE student in Sharif University of Technology.
 ---
 
 ## 🛠 Skills
