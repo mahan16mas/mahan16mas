@@ -16,4 +16,4 @@ CE student at SUT. Interested in ML.
 ---
 
 ## 📊 GitHub Stats
-![Mahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Mahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahan16mas&show_icons=true&theme=radical)
