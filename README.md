@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Mahan 👋
 
-<!--
-**mahan16mas/mahan16mas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CE student at SUT. Interested in ML.
+---
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages:** Python, C, Java
+- **Frameworks & Libraries:** PyTorch, NumPy, Pandas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+## 📫 Connect with me
+[Email](mailto:mahan.48415@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+![Mahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
