@@ -25,7 +25,6 @@
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-yellow?logo=google&logoColor=white)
 
 ---
 
