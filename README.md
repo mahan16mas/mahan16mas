@@ -1,5 +1,5 @@
 
-**Computer Engineering student **
+**Computer Engineering student**
 
 ---
 
