@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Mahan!
 
-**Computer Engineering student | ML & AI enthusiast | Developer**
+**Computer Engineering student **
 
 ---
 
